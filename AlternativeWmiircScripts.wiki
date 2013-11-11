@@ -2,7 +2,7 @@
 
 = Alternative wmiirc scripts =
 
-wmii was designed to be scriptable in any language you choose. Here are some alternative wmiirc scripts, in various languages. Feel free to add your own, with a short description of its features and its language.
+wmii was designed to be scriptable in any language you choose. Here are some alternative wmiirc scripts, in various languages, as well as [https://code.google.com/p/wmii/source/browse/#hg%2Falternative_wmiircs in the repo]. Feel free to add your own, with a short description of its features and its language.
 
 == sunaku's Ruby wmiirc ==
 
