@@ -2,7 +2,7 @@
 Here, for archival purposes, are the guides to historical releases of wmii. They have been superseded by doc/wmii.pdf in the standard distribution.
 
 == A GUIDE TO wmii ==
-These documents are licensed under the terms of the GNU GPLv2.
+These documents are licensed under the terms of the [http://www.gnu.org/licenses/gpl-2.0.html GNU GPLv2].
 
 This is a page about the beginners guide to wmii, a document written to give newcomers a good understanding of wmii, the usage, the project and its goals. The original version was written by Steffen Liebergeld in English.
 
