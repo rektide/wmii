@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Wmii : WMII window manager" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Wmii</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/rektide/wmii">View on GitHub</a>
+
+          <h1 id="project_title">Wmii</h1>
+          <h2 id="project_tagline">WMII window manager</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/rektide/wmii/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/rektide/wmii/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>
+<a name="introduction" class="anchor" href="#introduction"><span class="octicon octicon-link"></span></a>Introduction</h1>
+
+<h2>
+<a name="installation" class="anchor" href="#installation"><span class="octicon octicon-link"></span></a>Installation</h2>
+
+<p>Check if the package management of your operating system already provides a package for the latest wmii snapshot and install this, or build wmii from scratch after <a href="https://code.google.com/p/wmii/source/checkout">downloading</a> the source. If you build it from scratch, follow the instructions in the shipped README file.</p>
+
+<h2>
+<a name="running-wmii" class="anchor" href="#running-wmii"><span class="octicon octicon-link"></span></a>Running wmii</h2>
+
+<p>Add the following line to your <code>.xinitrc</code> to start <code>wmii</code> using </p>
+
+<pre><code>until wmii; do
+    true
+done
+</code></pre>
+
+<p>In order to connect wmii to a specific display, make sure that the <code>$DISPLAY</code> environment variable is set correctly. For example:</p>
+
+<pre><code>DISPLAY=:1 wmii
+</code></pre>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Wmii maintained by <a href="https://github.com/rektide">rektide</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
