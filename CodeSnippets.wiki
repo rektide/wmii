@@ -1,5 +1,6 @@
-#summary scripts and snippets
-
+---
+title: Scritps and Snippets
+---
 = Scripts and snippets =
 
 Here, you can find all sorts of code snippets and plugins for the various wmiircs available for wmii. Please choose your language to the left. And please feel free to [https://code.google.com/p/sample-hg-project/source/checkout?repo=wiki contribute your own]! You'll just need a copy of [http://mercurial.selenic.com/wiki/ Mercurial] and a text editor. Arcane as this may seem, it's the best way we've found to cut down on spam and to keep the vast majority of our users happy.

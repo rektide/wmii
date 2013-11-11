@@ -1,3 +1,6 @@
+---
+title: FAQ
+---
 = FAQ =
 
 == Which operating systems does wmii run on? ==

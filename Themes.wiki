@@ -1,3 +1,6 @@
+---
+title: Themes
+---
 = Themes =
 Various color schemes to try out. These appear in rc syntax, so they may require some modification to work with your configuration.
 

@@ -1,5 +1,6 @@
-#summary 9p tips
-
+---
+title: 9p
+---
 = Tips About 9p Capabilities  =
 
 This page covers how to mount the wmii file system on Linux or [http://doc.cat-v.org/inferno/ Inferno], see [http://9p.cat-v.org/ 9P] for a list of [http://9p.cat-v.org/implementations other 9P client libraries in various languages].

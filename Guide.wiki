@@ -1,3 +1,6 @@
+---
+title: Archival docs
+---
 = Archival wmii documentation =
 Here, for archival purposes, are the guides to historical releases of wmii. They have been superseded by doc/wmii.pdf in the standard distribution.
 
