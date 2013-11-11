@@ -1,0 +1,143 @@
+= Themes =
+Various color schemes to try out. These appear in rc syntax, so they may require some modification to work with your configuration.
+
+== default ==
+WMII_FOCUSCOLORS=(<font color="'#ffffff'">''#ffffff''</font> <font color="'#153F1F'">''#153F1F''</font> <font color="'#2A7F3F'">''#2A7F3F''</font>)
+
+WMII_BACKGROUND=<font color="'#333333'">''#333333''</font>
+
+WMII_NORMCOLORS=(<font color="'#222222'">''#222222''</font> <font color="'#5FBF77'">''#5FBF77''</font> <font color="'#2A7F3F'">''#2A7F3F''</font>)
+
+== Wombat (from Vim) ==
+WMII_FOCUSCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#cae682'">''#cae682''</font> <font color="'#303030'">''#303030''</font>)
+
+WMII_BACKGROUND=<font color="'#000000'">''#000000''</font>
+
+WMII_NORMCOLORS=(<font color="'#f6f3e8'">''#f6f3e8''</font> <font color="'#242424'">''#242424''</font> <font color="'#303030'">''#303030''</font>)
+
+== gray and green ==
+WMII_FOCUSCOLORS=(<font color="'#A0FF00'">''#A0FF00''</font> <font color="'#686363'">''#686363''</font> <font color="'#8c8c8c'">''#8c8c8c''</font>)
+
+WMII_BACKGROUND=<font color="'#333333'">''#333333''</font>
+
+WMII_NORMCOLORS=(<font color="'#e0e0e0'">''#e0e0e0''</font> <font color="'#444444'">''#444444''</font> <font color="'#666666'">''#666666''</font>)
+
+== light blue and white ==
+WMII_FOCUSCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#bbc5ff'">''#bbc5ff''</font> <font color="'#000000'">''#000000''</font>)
+
+WMII_BACKGROUND=<font color="'#ddeedd'">''#ddeedd''</font>
+
+WMII_NORMCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#f8f8f4'">''#f8f8f4''</font> <font color="'#f8f8f4'">''#f8f8f4''</font>)
+
+== blue and smoke ==
+WMII_FOCUSCOLORS=(<font color="'#ffffff'">''#ffffff''</font> <font color="'#285577'">''#285577''</font> <font color="'#4C7899'">''#4C7899''</font>)
+
+WMII_BACKGROUND=<font color="'#333333'">''#333333''</font>
+
+WMII_NORMCOLORS=(<font color="'#888888'">''#888888''</font> <font color="'#222222'">''#222222''</font> <font color="'#333333'">''#333333''</font>)
+
+== sleepless night ==
+WMII_FOCUSCOLORS=(<font color="'#ff7700'">''#ff7700''</font> '#11111' <font color="'#ff7700'">''#ff7700''</font>)
+
+WMII_BACKGROUND=<font color="'#333333'">''#333333''</font>
+
+WMII_NORMCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#ffffff'">''#ffffff''</font> <font color="'#666666'">''#666666''</font>)
+
+WMII_FONT='-*-terminus-*-*-*-*-12-*-*-*-*-*-*-*'
+
+== the green ==
+WMII_FOCUSCOLORS=(<font color="'#66FF00'">''#66FF00''</font> <font color="'#101010'">''#101010''</font> <font color="'#66FF00'">''#66FF00''</font>)
+
+WMII_BACKGROUND=<font color="'#888888'">''#888888''</font>
+
+WMII_NORMCOLORS=(<font color="'#EEEEEE'">''#EEEEEE''</font> <font color="'#000000'">''#000000''</font> <font color="'#111111'">''#111111''</font>)
+
+WMII_FONT='-artwiz-snap-normal-*-*-*-*-*-*-*-*-*-*-*'
+
+== the orange ==
+WMII_FOCUSCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#CD6D37'">''#CD6D37''</font> <font color="'#000000'">''#000000''</font>)
+
+WMII_BACKGROUND=<font color="'#888888'">''#888888''</font>
+
+WMII_NORMCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#848484'">''#848484''</font> <font color="'#000000'">''#000000''</font>)
+
+WMII_FONT='-b&h-lucidatypewriter-medium-r-*-*-*-100-*-*-*-*-*-*'
+
+== crystal shining style ==
+WMII_FOCUSCOLORS=(<font color="'#fefefe'">''#fefefe''</font> <font color="'#307080'">''#307080''</font> <font color="'#5090a0'">''#5090a0''</font>)
+
+WMII_BACKGROUND=<font color="'#333333'">''#333333''</font>
+
+WMII_NORMCOLORS=(<font color="'#cccccc'">''#cccccc''</font> <font color="'#004050'">''#004050''</font> <font color="'#002030'">''#002030''</font>)
+
+WMII_FONT='-*-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*'
+
+== kawai anime ==
+WMII_FOCUSCOLORS=(<font color="'#FFFFFF'">''#FFFFFF''</font> <font color="'#FF11FF'">''#FF11FF''</font> <font color="'#000000'">''#000000''</font>)
+
+WMII_BACKGROUND=<font color="'#FF88FF'">''#FF88FF''</font>
+
+WMII_NORMCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#FF55FF'">''#FF55FF''</font> <font color="'#000000'">''#000000''</font>)
+
+WMII_FONT='-*-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*'
+
+== anthrazit style ==
+WMII_FOCUSCOLORS=(<font color="'#eeeeee'">''#eeeeee''</font> <font color="'#506070'">''#506070''</font> <font color="'#708090'">''#708090''</font>)
+
+WMII_BACKGROUND=<font color="'#333333'">''#333333''</font>
+
+WMII_NORMCOLORS=(<font color="'#bbbbbb'">''#bbbbbb''</font> <font color="'#222222'">''#222222''</font> <font color="'#000000'">''#000000''</font>)
+
+WMII_FONT='-artwiz-snap-*-*-*-*-*-*-*-*-*-*-*-*'
+
+== acme style ==
+WMII_FOCUSCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#eaffff'">''#eaffff''</font> <font color="'#8888cc'">''#8888cc''</font>)
+
+WMII_BACKGROUND=<font color="'#757575'">''#757575''</font>
+
+WMII_NORMCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#ffffea'">''#ffffea''</font> <font color="'#bdb76b'">''#bdb76b''</font>)
+
+WMII_FONT='-artwiz-glispbold-*-*-*-*-*-*-*-*-*-*-*-*'
+
+== acme darkly style ==
+WMII_FOCUSCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#9eeeee'">''#9eeeee''</font> <font color="'#8888cc'">''#8888cc''</font>)
+
+WMII_BACKGROUND=<font color="'#757575'">''#757575''</font>
+
+WMII_NORMCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#eeee9e'">''#eeee9e''</font> <font color="'#99994c'">''#99994c''</font>)
+
+WMII_FONT='-artwiz-glispbold-*-*-*-*-*-*-*-*-*-*-*-*'
+
+== blue style ==
+WMII_FOCUSCOLORS=(<font color="'#000000'">''#000000''</font> <font color="'#9191FF'">''#9191FF''</font> <font color="'#444444'">''#444444''</font>)
+
+WMII_BACKGROUND=<font color="'#333333'">''#333333''</font>
+
+WMII_NORMCOLORS=(<font color="'#9191FF'">''#9191FF''</font> <font color="'#000000'">''#000000''</font> <font color="'#444444'">''#444444''</font>)
+
+WMII_FONT='-artwiz-glispbold-*-*-*-*-*-*-*-*-*-*-*-*'
+
+== bluedark style ==
+WMII_FOCUSCOLORS=(<font color="'#EEEEEE'">''#EEEEEE''</font> <font color="'#005577'">''#005577''</font> <font color="'#006699'">''#006699''</font>)
+
+WMII_BACKGROUND=<font color="'#111111'">''#111111''</font>
+
+WMII_NORMCOLORS=(<font color="'#BBBBBB'">''#BBBBBB''</font> <font color="'#222222'">''#222222''</font> <font color="'#000000'">''#000000''</font>)
+
+WMII_FONT='-artwiz-glispbold-*-*-*-*-*-*-*-*-*-*-*-*'
+
+== gloom ==
+WMII_FOCUSCOLORS=(<font color="'#ffffff'">''#ffffff''</font> <font color="'#282828'">''#282828''</font> <font color="'#cccccc'">''#cccccc''</font>)
+
+WMII_BACKGROUND=<font color="'#333333'">''#333333''</font>
+
+WMII_NORMCOLORS=(<font color="'#e0e0e0'">''#e0e0e0''</font> <font color="'#0a0a0a'">''#0a0a0a''</font> <font color="'#606060'">''#606060''</font>)
+
+== Xterm style ==
+WMII_FOCUSCOLORS=(<font color="'#54FF54'">''#54FF54''</font> <font color="'#000000'">''#000000''</font> <font color="'#73A5FF'">''#73A5FF''</font>)
+
+WMII_BACKGROUND=<font color="'#000000'">''#000000''</font>
+
+WMII_NORMCOLORS=(<font color="'#A8A8A8'">''#A8A8A8''</font> <font color="'#000000'">''#000000''</font> <font color="'#A07040'">''#A07040''</font>)
+
+WMII_FONT='*-fixed-medium-r-*-*-13-*-*-*-*-*-*-*'
