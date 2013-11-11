@@ -1,0 +1,22 @@
+#summary alternative wmiirc scripts
+
+= Alternative wmiirc scripts =
+
+wmii was designed to be scriptable in any language you choose. Here are some alternative wmiirc scripts, in various languages. Feel free to add your own, with a short description of its features and its language.
+
+== sunaku's Ruby wmiirc ==
+
+sunaku's Ruby wmiirc manipulates wmii (in the Ruby way) through the Rumai library which speaks directly to wmii via the 9P2000 protocol and features an interactive Ruby shell for live entertainment.
+
+This wmiirc features:
+
+  *Logging and crash recovery.
+  *DSL for events, keystrokes, and actions in wmii.
+  *Manipulating multiple clients simultaneously.
+  *Automatic client arrangement (LarsWM, grid, diamond, etc.)
+  *Zooming clients to a temporary workspace.
+  *Closing all clients before exiting wmii.
+  *Music Player Daemon (MPD) integration.
+  *Shortcuts optimized for Dvorak layout on a Kinesis keyboard.
+  *And so much more?
+  *All of this can be configured to suit your needs, of course.
