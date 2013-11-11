@@ -6,7 +6,7 @@ wmii was designed to be scriptable in any language you choose. Here are some alt
 
 == sunaku's Ruby wmiirc ==
 
-sunaku's Ruby wmiirc manipulates wmii (in the Ruby way) through the Rumai library which speaks directly to wmii via the 9P2000 protocol and features an interactive Ruby shell for live entertainment.
+[http://github.com/sunaku/wmiirc/tree/master sunaku's Ruby wmiirc] manipulates wmii (in the Ruby way) through the [http://snk.tuxfamily.org/lib/rumai/ Rumai] library which speaks directly to wmii via the 9P2000 protocol and features an [http://snk.tuxfamily.org/lib/rumai/#Tutorial interactive Ruby shell for live entertainment].
 
 This wmiirc features:
 
@@ -16,7 +16,8 @@ This wmiirc features:
   *Automatic client arrangement (LarsWM, grid, diamond, etc.)
   *Zooming clients to a temporary workspace.
   *Closing all clients before exiting wmii.
-  *Music Player Daemon (MPD) integration.
-  *Shortcuts optimized for Dvorak layout on a Kinesis keyboard.
-  *And so much more?
-  *All of this can be configured to suit your needs, of course.
+  *[http://mpd.wikia.com/ Music Player Daemon (MPD)] integration.
+  *Shortcuts optimized for [http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard Dvorak layout] on a [http://www.kinesis-ergo.com/advantage.htm Kinesis keyboard].
+  *And [http://snk.tuxfamily.org/log/wmii-3.1-ruby-config.html so much more]?
+
+All of this can be configured to suit your needs, of course.
